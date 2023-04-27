@@ -20,6 +20,7 @@ function CreateComponent() {
  
 
   return (
+    // create a for all input value for all form
     <>
         
         <form>
